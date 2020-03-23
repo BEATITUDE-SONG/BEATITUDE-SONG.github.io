@@ -24,5 +24,4 @@ deploy:
   skip-cleanup: false
   github-token: $GH_TOKEN
   keep-history: false
-  on: master
   local-dir: public
