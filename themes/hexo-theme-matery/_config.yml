@@ -34,8 +34,8 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 摇曳的风铃
-  text: 感谢您访问摇曳的风铃的博客,欢迎您指正。
+  title: 摇曳的风铃🎐
+  text: 感谢您访问摇曳的风铃🎐的博客,欢迎您指正。
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -111,10 +111,10 @@ code:
 
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
-  enable: false
+  enable: true
   title: 你的赏识是我前进的动力
   wechat: /medias/reward/wechat.jpg
-  qq: /medias/reward/qq.png
+  alipay: /medias/reward/alipay.jpg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
@@ -122,7 +122,7 @@ reward:
 copyright:
   enable: true
   minCharNumber: 32 # 至少复制多少个字符就追加版权信息.
-  description: 本文章著作权归摇曳的风铃所有，任何形式的转载都请注明出处。
+  description: 本文章著作权归摇曳的风铃🎐所有，任何形式的转载都请注明出处。
 
 # Whether to activate the mathjax, this is a global configuration, but the post still does not open the mathjax rendering.
 # Considering that the mathjax loading is time consuming,
@@ -153,7 +153,7 @@ clicklove:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /favicon.png
-  introduction: 感谢您访问摇曳的风铃的博客,欢迎您指正。
+  introduction: 感谢您访问摇曳的风铃🎐的博客,欢迎您指正。
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
